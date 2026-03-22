@@ -1,6 +1,6 @@
 # Hi, I am Aishani Paul
 
-🎓 Int M.Tech Student – Bioinformatics & AI  
+🎓 Integrated M.Tech Student – Bioinformatics & AI  
 🏫 VIT Bhopal University  
 📅 1st Year  
 
